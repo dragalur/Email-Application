@@ -65,16 +65,6 @@ public class Email {
 		return "DISPLAY NAME : "+firstName+" "+lastName
 				+"\nCOMPANY EMAIL : "+email
 				+"\nMAIL BOX CAPACITY : "+mailCapasiti+"mb";
-		}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
+		}	
 	
 }
